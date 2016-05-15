@@ -4,6 +4,8 @@
 
 public class Sort{
 
+public static final String NEW_MESSAGE = “Creating a new branch is quick.”;
+
 public void main(){
 
 }
@@ -23,3 +25,5 @@ System.out.println("中国好");
 }
 
 }
+
+

@@ -3,3 +3,6 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 
 mdf by breach dev
+
+
+fix bug by issua-101

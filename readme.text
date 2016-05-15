@@ -5,6 +5,10 @@ Git has a mutable index called stage.
 mdf by breach dev
 
 
+<<<<<<< Updated upstream
 fix bug by issua-101
 
 this is issua-101 fix bug
+=======
+git dev ing
+>>>>>>> Stashed changes

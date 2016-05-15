@@ -4,7 +4,7 @@
 
 public class Sort{
 
-public static final String NEW_MESSAGE = “Creating a new branch is quick.”;
+public static final String NEW_MESSAGE = “Creating a new branch is quick & simples.”;
 
 public void main(){
 
